@@ -1,15 +1,14 @@
 Tech-Box.io Laser Stem Matrix
-
-<img src="https://user-images.githubusercontent.com/87037439/133823305-b28164ba-14d3-47aa-bd4f-f2bfe77e63cd.png" width="400" height="400">
+===========
 
 This repository contains all of the files and libraries required to program and control the 
 Tech-Box.io Laser Stem Matrix.
 
-Shop:
-https://tech-box.io/products/laser-stem-matrix
+<img src="https://user-images.githubusercontent.com/87037439/133823305-b28164ba-14d3-47aa-bd4f-f2bfe77e63cd.png" width="400" height="400">
 
-Instruction Guide:
-https://tech-box.io/blogs/guides/laser-stem-matrix-instruction-guide
+
+## Shop:
+https://tech-box.io/products/laser-stem-matrix
 
 The Tech-Box.io Laser Stem Matrix (LSM) Electronic kit is a great way to get started with programming 
 and hardware interaction with the Arduino programming language. The LSM includes everything you need 
@@ -22,6 +21,12 @@ required to use this kit!
 Difficulty Level: Beginner
 
 Expected Guided Build Time: ~2 hours
+
+## Instruction Guide:
+https://tech-box.io/blogs/guides/laser-stem-matrix-instruction-guide
+
+
+
 
 The LSM instruction guide contains step-by-step instructions with wiring diagrams, in-depth images, 
 and hookup tables for constructing this project. Full example code is provided and each component 
