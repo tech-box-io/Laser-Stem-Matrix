@@ -1,5 +1,7 @@
 Tech-Box.io Laser Stem Matrix
 
+<img src="https://user-images.githubusercontent.com/87037439/133823305-b28164ba-14d3-47aa-bd4f-f2bfe77e63cd.png" width="400" height="400">
+
 This repository contains all of the files and libraries required to program and control the 
 Tech-Box.io Laser Stem Matrix.
 
