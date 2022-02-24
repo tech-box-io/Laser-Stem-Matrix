@@ -18,6 +18,9 @@ CRGB leds[NUM_LEDS];
 void setup() {
   delay(1000); //1 second delay for recovery
 
+  pinMode(DATA_PIN, OUTPUT);
+  pinMode(PB_pin, INPUT);
+
   //Set the FastLED configuration for the LED Matrix being used
   FastLED.addLeds<LED_TYPE,DATA_PIN,COLOR_ORDER>(leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
 
