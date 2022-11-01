@@ -1,5 +1,5 @@
 //Start by including the needed library
-#include <FastLED.h>
+#include "src/FastLED.h"
 
 FASTLED_USING_NAMESPACE
 
